@@ -1,4 +1,3 @@
-style
 /* 1. ESTILO GERAL DA TELA */
 body {
     font-family: Arial, sans-serif; /* Tipo da letra */
@@ -29,3 +28,4 @@ main {
 main h2 {
     color: #2c3e50;                /* Cor do título do post */
 }
+
